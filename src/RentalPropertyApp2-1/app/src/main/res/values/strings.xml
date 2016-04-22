@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RentalPropertyApp2-1</string>
+
+    <string name="edit_message">Enter A Message</string>
+    <string name="button_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+
+    //150-51 14th road Whitestone, N.Y $800,000
+</resources>

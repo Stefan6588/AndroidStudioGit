@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TriathelonRegApp3-2</string>
+    <string name="txtTitle">Triathelon Registration App</string>
+    <string name="txtNumberOf"> </string>
+    <string name="btnResults"> Results</string>
+
+
+    <string-array name="spinner">
+        <item>Lake Placid</item>
+        <item>Big Island Hawaii</item>
+        <item>Miami</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>

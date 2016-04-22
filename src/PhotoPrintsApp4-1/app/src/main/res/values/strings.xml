@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhotoPrintsApp4-1</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Phone Photo Prints</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="btnOrder">ORDER PRINTS</string>
+
+
+    <string name="radOne"> 4 x 4 (.19 cents)</string>
+    <string name="radTwo"> 5 x 7 (.49 cents)</string>
+    <string name="radThree"> 8 x 10 (.79 cents)</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheDogSleddingExperienceTabletApp8-2</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Dog Sledding Adventures- Germany</string>
+    <string name="txtDescription"> Select a date for your sledding day trip.</string>
+    <string name="btnDate">Select the Date for a Full-Day Sledding Trip</string>
+    <string name="imgSled">Sledding Image</string>
+</resources>

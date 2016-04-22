@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ModernArtMuseums9-2</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="txtMus1">Barnes Museum, Philidelphia</string>
+    <string name="txtMus2">Tate Modern Museum, United Kingdom</string>
+    <string name="txtMus3">Van Gogh Museum, Netherlands</string>
+    <string name="txtTitle">Modern Art Museums</string>
+    <string name="txtInfo">Join us for a day full of modern art</string>
+    <string name="txtDescription">Modern Art Museum Images</string>
+</resources>

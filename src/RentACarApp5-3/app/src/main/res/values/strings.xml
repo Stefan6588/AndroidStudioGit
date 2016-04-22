@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RentACarApp5-3</string>
+    <string name="action_settings">Settings</string>
+    <string name="F1">Mclaren F1</string>
+    <string name="button">List of Car Companies</string>
+    <string name="title_activity_secondpage">Second Page</string>
+
+</resources>

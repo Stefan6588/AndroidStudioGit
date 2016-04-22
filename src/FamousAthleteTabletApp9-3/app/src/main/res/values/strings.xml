@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FamousAthleteTabletApp9-3</string>
+    <string name="title_item_detail">Famous Athlete Tablet App</string>
+
+    <string name="txtath1"> Born Cristiano Ronaldo dos Santos Aveiro on February 5, 1985, in Funchal, Madeira, Portugal, a small island off the western coast of the country. </string>
+<string name="txtath2"> Born: February 5, 1985 (age 30), Santo António, Portugal, Height: 6′ 1″, Salary: 17 million EUR (2014)</string>
+
+<string name="txtTitle">Famous Soccer Star</string>
+<string name="txtInfo"> Christian Ronaldo Soccer Star</string>
+<string name="txtDescription">Christian Ronaldo</string>
+    </resources>

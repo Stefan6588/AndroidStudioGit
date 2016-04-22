@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PiggyBankApp3-6</string>
+    <string name="txtTitle">Piggy Bank App</string>
+    <string name="Results">Results</string>
+
+
+    <string-array name="spinner">
+        <item>Quarters</item>
+        <item>Dimes</item>
+        <item>Nickles</item>
+        <item>Pennies</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TableRow>
+        <ImageView
+            android:id="@+id/imgBike"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/txtDescription"
+            android:src = "@drawable/ath1"
+            android:padding="15sp" />
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:text="@string/txtath1"
+            android:textSize="30sp"
+            android:typeface = "serif"/>
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_width="600dp"
+            android:layout_height="wrap_content"
+            android:text="@string/txtath2"
+            android:textSize="30sp"
+            android:typeface = "serif"/>
+    </TableRow>
+</TableLayout>

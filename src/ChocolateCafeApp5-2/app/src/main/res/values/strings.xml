@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChocolateCafeApp5-2</string>
+    <string name="action_settings">Settings</string>
+    <string name="Cake">Cake</string>
+    <string name="Macaron">Macaron</string>
+    <string name="Mousse">Mousse</string>
+    <string name="title_activity_macaron">Macaron</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cake">Cake</string>
+    <string name="title_activity_mousse">Mousse</string>
+</resources>

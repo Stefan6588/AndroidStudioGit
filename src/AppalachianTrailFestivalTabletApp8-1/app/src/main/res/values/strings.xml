@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppalachianTrailFestivalTabletApp8-1</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Hiking/Adventures, NY</string>
+    <string name="txtDescription"> Select a date for your hiking trip.</string>
+    <string name="btnDate">Select the Date for a Full-Day Hiking Trip</string>
+    <string name="imgHike">Hiking Image</string>
+
+</resources>

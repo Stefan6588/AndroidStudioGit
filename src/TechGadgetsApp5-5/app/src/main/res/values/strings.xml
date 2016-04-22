@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TechGadgetsApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="radOne">PSP 3000</string>
+    <string name="radTwo">Nintendo 3DS</string>
+    <string name="radThree">Nvidia Shield</string>
+    <string name="radFour">OpenPandora</string>
+    <string name="radFive">PS Vita</string>
+    <string name="txtTitle">5 Hottest Gaming Techs</string>
+    <string name="btnGo">More Info</string>
+    <string name="title_activity_dsxl">Nintendo DSxl</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_nvidia">Nvidia Shield</string>
+    <string name="title_activity_openpandora">openpandora</string>
+    <string name="title_activity_psp3000">PSP 3000</string>
+    <string name="title_activity_psvita">Ps Vita</string>
+
+
+</resources>

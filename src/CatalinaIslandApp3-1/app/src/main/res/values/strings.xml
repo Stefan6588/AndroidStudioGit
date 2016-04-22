@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CatalinaIslandApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Catalina Ferry Tickets</string>
+    <string name="String2">Number of Tickets</string>
+    <string name="btnCost">COMPUTE COST</string>
+    <string name="String4">To Catalina Island</string>
+    <string name="String5">To Long Beach</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="prompt">prompt</string>
+    <string name="description">Concert Image</string>
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="spinner">spinner</string>
+    <string name = "txtGroup"></string>
+
+    <string-array name="spinner">
+        <item>Catalina Island</item>
+        <item>Long Beach</item>
+    </string-array>
+</resources>

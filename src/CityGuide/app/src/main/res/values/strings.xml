@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CityGuide</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="pier">Navy Pier Image</string>
+    <string name="water">Water Tower Image</string>
+    <string name="willis">Willis Tower Image</string>
+    <string name="title_activity_willis">Willis_Tower</string>
+    <string name="title_activity_pier">Navy Pier</string>
+    <string name="title_activity_water">Water Tower</string>
+
+
+</resources>

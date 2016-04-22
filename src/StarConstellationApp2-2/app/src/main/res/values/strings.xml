@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StarConstellationApp2-2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_display_message">Gemini</string>
+    <string name="edit_message">Gemini comes from Latin (plural- geminus)</string>
+    <string name="message">         </string>
+    <string name="button_send">Send</string>
+</resources>

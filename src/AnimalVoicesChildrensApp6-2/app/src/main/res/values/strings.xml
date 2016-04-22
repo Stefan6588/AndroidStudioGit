@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AniimalVoicesChildrensApp6-2</string>
+    <string name="action_settings">Settings</string>
+    <string name="farm">Animal Voices</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="btnCows">LISTEN TO THE COWS</string>
+    <string name="btnPigs">LISTEN TO THE PIGS</string>
+
+</resources>

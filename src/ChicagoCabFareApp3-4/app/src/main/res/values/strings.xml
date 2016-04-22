@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ChicagoCabFareApp</string>
+    <string name="string1"> $3.00 Initial Fee</string>
+    <string name="string2">3.25/Mile</string>
+    <string name="txtTitle">Chicago Cab Fare App</string>
+
+
+    <string name="spinner">spinner</string>
+    <string name = "txtGroup"></string>
+    <string name="prompt">prompt</string>
+
+    <string-array name="spinner">
+        <item>SmartCar</item>
+        <item>Traditional Sedan</item>
+        <item>Mini-van</item>
+    </string-array>
+    <string name="title_activity_main2">Main2Activity</string>
+
+</resources>

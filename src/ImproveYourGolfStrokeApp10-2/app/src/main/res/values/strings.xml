@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImproveYourGolfStrokeApp10-2</string>
+    <string name="imgDescription">Golf Stroke Image</string>
+    <string name="btnStart">Start frame Animation</string>
+    <string name="btnStop">Start Tween Animation</string>
+    <string name="title_activity_tween">Tween Animation</string>
+</resources>

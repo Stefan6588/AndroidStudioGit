@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CartoonAnimationApp10-4</string>
+    <string name="imgDescription">Northern Lights Image</string>
+    <string name="btnStart">Start Cartoon</string>
+    <string name="btnStop">Stop Cartoon</string>
+    <string name="title_activity_tween">Tween Activity</string>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FloorTilingApp4-4</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Floor Tiling App</string>
+    <string name="radOne">12 x 12</string>
+    <string name="radTwo">18 x 18</string>
+    <string name="btnCalc">Calculate Sq Ft</string>
+</resources>

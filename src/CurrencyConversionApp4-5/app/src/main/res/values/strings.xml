@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CurrencyConversipnApp4-5</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Currency Conversion App</string>
+    <string name="txtDollars"> </string>
+
+    <string name="radPesos">Mexican Pesos (MXN)</string>
+    <string name="radEuros">Euros (EUR)</string>
+    <string name="radCanDol">Canadian Dollars(CAD)</string>
+    <string name="btnCalc">Convert</string>
+
+
+</resources>

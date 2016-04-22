@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SplitBillApp3-5</string>
+    <string name="string1">Tip Calculator</string>
+    <string name="string2">Calculate (.18 Tip)</string>
+
+    <string-array name="spinner">
+        <item>Excellent</item>
+        <item>Average</item>
+        <item>Poor</item>
+    </string-array>
+
+
+</resources>

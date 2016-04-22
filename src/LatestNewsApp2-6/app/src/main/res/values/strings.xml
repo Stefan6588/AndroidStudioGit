@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LatestNewsApp2-6</string>
+    <string name="action_settings">Settings</string>
+    <string name="textview">Chip Cards Will Require Users to Dip Rather Than Swipe</string>
+    <string name="textview1">No, You Don’t Need to Post a Facebook Copyright Status</string>
+    <string name="textview2">News Article 1</string>
+    <string name="textview3">News Article 2</string>
+    <string name="btn1">More on chip cards!</string>
+    <string name="btn2">More on FB Copyright!</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="article1">The change from a swipe to a dip may be the only sign many consumers
+    have an enormous behind-the-scenes shift in the payment industry, as banks and retailers
+    tussel over who should be blamed for fraud...</string>
+    <string name="article2"> In recent days, you might have seen facebook statuses imploring you to post legalish language
+    and other information from copyright violations. Don't bother. It doesn't work, and similar versions
+    of the hoax have been repeated for years...</string>
+
+
+
+
+</resources>

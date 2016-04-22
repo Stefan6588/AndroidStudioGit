@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WildGingerDinnerDeliveryTabletApp8-5</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Wild Ginger Delivery Tablet App</string>
+    <string name="txtDescription"> Select a date for your reservation or choose delivery.</string>
+    <string name="btnDate">Order Now</string>
+    <string name="imgDiner">Diner Image</string>
+</resources>

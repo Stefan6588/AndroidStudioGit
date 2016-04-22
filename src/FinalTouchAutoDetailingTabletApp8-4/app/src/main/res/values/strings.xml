@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalTouchAutoDetailingTabletApp8-4</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Final Touch Auto Detailing</string>
+    <string name="txtDescription"> Service Descriptions </string>
+    <string name="btnDate">Select the date for your detailing.</string>
+    <string name="imgCar">Spray Painting</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SnapFitnessTabletApp9-4</string>
+    <string name="title_item_detail">Snap Fitness Tablet App</string>
+
+    <string name="txtstr1"> https://www.mysportsclubs.com/overview/about-us "Increased motivation, refreshed workout routines and faster results are just a few of the benefits of partnering with one of our certified personal trainers."</string>
+    <string name="txtstr2"> Young:25.00, Adult: 50.00, Family: 75.00, Senior: 50.00</string>
+    <string name="txtstr3"> </string>
+    <string name="txtTitle">Snap Fitness Tablet App</string>
+    <string name="txtInfo"> Building a great member experience through fresh, innovative programs and state-of-the-art equipment is at the heart of what we do. </string>
+    <string name="txtDescription">Snap Fitness Image</string>
+</resources>

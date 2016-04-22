@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CountryCabinRentalTabletApp8-3</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgCabin">Cabin Image</string>
+    <string name="txtTitle">Intimate Cabin Rentals- Upstate NY</string>
+    <string name="txtDescription1"> Enjoy the beauty of the fall In the Aderondacks N.Y. Select a date for your cabin weekend.</string>
+    <string name="txtDescription2"> Enjoy the glamour of winter in Buffalo N.Y. Select a date for your cabin weekend.</string>
+    <string name="btnDate">Select the Date for a Full-Day Cabin Trip</string>
+</resources>

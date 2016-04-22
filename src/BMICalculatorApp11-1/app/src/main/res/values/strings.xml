@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMICalculatorApp11-1</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Body Mass Index Calculator</string>
+    <string name="hint1">Weight (whole lb.)</string>
+    <string name="hint2">Height (in.)</string>
+    <string name="btnCalc">Calculate</string>
+    <string name="imgDescription">BMI Image</string>
+    <string name="txtCalculate">Calculate BMI</string>
+    <string name="title_activity_main2">Calculate BMI</string>
+
+</resources>

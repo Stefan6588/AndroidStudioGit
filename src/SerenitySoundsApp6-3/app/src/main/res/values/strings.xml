@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Serenity SoundsApp6-3</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Serenity Sound Apps</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="btnOne">Play Dramatic Sound</string>
+    <string name="btnTwo">Play Mysterious Sound</string>
+
+
+</resources>

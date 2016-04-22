@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidRotationApp10-3</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgDescription">Android Rotation Image</string>
+    <string name="btnStart">Start Frame Animation</string>
+    <string name="btnStop">Start Tween Animation</string>
+    <string name="title_activity_tween">Tween Animation</string>
+</resources>

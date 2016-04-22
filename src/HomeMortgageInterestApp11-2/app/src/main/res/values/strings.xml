@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HomeMortgageInterestApp11-2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtTitle">Home Mortgage Interest App</string>
+    <string name="hint1">Number of Years</string>
+    <string name="hint2">House Loan Amount</string>
+    <string name="hint3">Interest Rate</string>
+    <string name="btnPayment">Monthly Payment</string>
+    <string name="imgDescription">Number of Years Image</string>
+    <string name="txtPayment">Monthly Payment</string>
+    <string name="title_activity_payment">Monthly Payment</string>
+</resources>

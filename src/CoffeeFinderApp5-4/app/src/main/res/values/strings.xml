@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CoffeeFinderApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_sevenstars">7 Stars</string>
+    <string name="title_activity_dunkin_doughnuts">Dunkin Doughnuts</string>
+    <string name="title_activity_la_cheesecake">La Cheesecake</string>
+    <string name="title_activity_starbucks">Starbucks</string>
+    <string name="dunkin">1834 College Point Blvd, College Point, NY 11356</string>
+    <string name="sevenstars">132-9 14th Ave, College Point, NY 11356</string>
+    <string name="starbucks">138-11 20th Ave, College Point, NY 11356</string>
+    <string name="LaCheesecake">126-06 14th Ave, College Point, NY 11356</string>
+
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">CunySplash</string>
+    <string name="intro">First Time Users Page</string>
+    <string name="outro">If already claimed, please click next:</string>
+    <string name="button1">Next</string>
+    <string name="string1">Claim Account</string>
+    <string name="string2">http;//home.cunyfirst.cuny.edu</string>
+    <string name="string3">On the Account Activation page, fill in personal information and click OK.</string>
+    <string name="string4">On the Challenge Questions and Answers page, create 5 questions and answers for security purposes and click OK.</string>
+    <string name="string5">On the Choose a Password page, enter and confirm your password and click OK</string>
+    <string name="string6">On the User Activation Completed Successfully page, your Username and your Empl ID (CUNY ID) will be displayed.</string>
+
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="Activity2-1">How do I login to my student email?</string>
+    <string name="Activity2-2">What is the student e-mail website?</string>
+    <string name="Activity2-3">http://outlook.com/mail.citytech.cuny.edu</string>
+    <string name="Activity2-4">What is my City Tech Email Username?</string>
+
+    <string name="Activity2-5">What is my password?</string>
+    <string name="Activity2-6">MMDDYYYY + last 4 digits of your EMPL ID.</string>
+
+
+
+
+
+</resources>
